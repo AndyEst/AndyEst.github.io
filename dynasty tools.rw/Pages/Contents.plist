@@ -10,13 +10,14 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>HomePage</key>
-				<string>1-Dynasty-tools</string>
+				<string>1-Main</string>
 			</dict>
 			<key>Files</key>
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
-				<string>1-Dynasty-tools</string>
+				<string>1-Main</string>
+				<string>2-League-Value-App</string>
 			</array>
 		</dict>
 	</array>
