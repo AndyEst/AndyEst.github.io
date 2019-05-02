@@ -10,13 +10,13 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>Height</key>
-				<integer>1500</integer>
+				<integer>1800</integer>
 				<key>URL</key>
 				<string>https://andye.tryretool.com/embedded/public/df58d3b6-48a1-4696-8532-2d55d0f8ab1d</string>
 				<key>UseFrame</key>
 				<false/>
 				<key>Width</key>
-				<integer>800</integer>
+				<integer>1000</integer>
 				<key>WidthMode</key>
 				<integer>0</integer>
 			</dict>

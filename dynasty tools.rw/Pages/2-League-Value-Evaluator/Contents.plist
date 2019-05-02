@@ -10,13 +10,13 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>CreatedDate</key>
-				<date>2019-05-02T03:02:25Z</date>
+				<date>2019-05-02T04:45:33Z</date>
 				<key>ID</key>
 				<string>page2</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Untitled Page</string>
+				<string>League Value Evaluator</string>
 				<key>PluginClassName</key>
 				<string>RWiFramePlugin</string>
 				<key>PluginMetadata</key>
@@ -33,7 +33,7 @@
 					<key>file:///Users/andrewestridge/Documents/GitHub/AndyEst.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-05-02T03:11:11Z</date>
+						<date>2019-05-02T04:57:16Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -42,17 +42,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ebgWYF+mx+o2
-								WLxOsPLelA==
+								bYof48dP5E5A
+								a5FA8DCnbg==
 								</data>
 								<key>Size</key>
-								<integer>3264</integer>
+								<integer>3295</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page2</string>
 						<key>SiteRoot</key>
-						<string>iframe</string>
+						<string>code</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

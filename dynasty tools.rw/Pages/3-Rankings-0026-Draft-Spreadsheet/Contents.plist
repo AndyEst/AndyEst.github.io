@@ -10,13 +10,13 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>CreatedDate</key>
-				<date>2019-05-01T22:25:56Z</date>
+				<date>2019-05-02T04:54:15Z</date>
 				<key>ID</key>
 				<string>page1</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>League Value App</string>
+				<string>Rankings &amp; Draft Spreadsheet</string>
 				<key>PluginClassName</key>
 				<string>RWStyledPlugin</string>
 				<key>PluginMetadata</key>
@@ -33,7 +33,7 @@
 					<key>file:///Users/andrewestridge/Documents/GitHub/AndyEst.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-05-02T03:11:11Z</date>
+						<date>2019-05-02T04:57:16Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -42,11 +42,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								vPdSQO7BqJxV
-								HmCpUuQZdg==
+								UDBMIksUXbB8
+								GwYplh2/bA==
 								</data>
 								<key>Size</key>
-								<integer>3223</integer>
+								<integer>3123</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

@@ -28,10 +28,12 @@
 				<false/>
 				<key>DefaultLinkTarget</key>
 				<string></string>
+				<key>Enabled</key>
+				<true/>
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>iframe</string>
+				<string>code</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>ImageFormat</key>
