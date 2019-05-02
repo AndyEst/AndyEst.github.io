@@ -10,21 +10,21 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>CreatedDate</key>
-				<date>2019-05-01T22:25:56Z</date>
+				<date>2019-05-02T03:02:25Z</date>
 				<key>ID</key>
-				<string>page1</string>
+				<string>page2</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>League Value App</string>
+				<string>Untitled Page</string>
 				<key>PluginClassName</key>
-				<string>RWStyledPlugin</string>
+				<string>RWiFramePlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
 					<string>Realmac Software</string>
 					<key>Name</key>
-					<string>Styled Text</string>
+					<string>iFrame</string>
 					<key>Version</key>
 					<string>7.0</string>
 				</dict>
@@ -42,28 +42,27 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Fr9XtNJInEJT
-								hj1SXK6Wyw==
+								98ceqIgr0ibp
+								MrSpD7h1Gw==
 								</data>
 								<key>Size</key>
-								<integer>3223</integer>
+								<integer>3264</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page1</string>
+						<string>page2</string>
 						<key>SiteRoot</key>
-						<string>styled</string>
+						<string>iframe</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 				</dict>
 			</dict>
 			<key>Files</key>
-			<array>
-				<string>Data.archive</string>
-			</array>
+			<array/>
 			<key>Subsandwiches</key>
 			<array>
+				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>
 		</dict>

@@ -9,20 +9,24 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
-				<key>HomePage</key>
-				<string>1-Main</string>
+				<key>Height</key>
+				<integer>100</integer>
+				<key>URL</key>
+				<string>https://andye.tryretool.com/embedded/public/df58d3b6-48a1-4696-8532-2d55d0f8ab1d</string>
+				<key>UseFrame</key>
+				<false/>
+				<key>Width</key>
+				<integer>100</integer>
+				<key>WidthMode</key>
+				<integer>1</integer>
 			</dict>
 			<key>Files</key>
 			<array/>
 			<key>Subsandwiches</key>
-			<array>
-				<string>1-Main</string>
-				<string>2-League-Value-App</string>
-				<string>3-Untitled-Page</string>
-			</array>
+			<array/>
 		</dict>
 	</array>
 	<key>Type</key>
-	<string>Pages</string>
+	<string>RapidWeaver iFrame Data</string>
 </dict>
 </plist>
