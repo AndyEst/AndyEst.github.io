@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dynasty Tools",
-    "currentPage": "page1.html",
+    "currentPage": "Evaluator.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3092,7 +3092,7 @@
         },
         {
           "_name": "pro.custom-html",
-          "_customHTML": "<iframe src=\"https://andye.tryretool.com/embedded/public/66e2b5e3-38f3-497a-ac62-0183da62504e\" style=\"height:1600px; width:100%;\"></iframe>",
+          "_customHTML": "<iframe src=\"https://andye.tryretool.com/embedded/public/66e2b5e3-38f3-497a-ac62-0183da62504e\" style=\"height:1100px; width:100%; \" scrolling=\"no\"></iframe>",
           "_anchor": "custom-html-i",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
