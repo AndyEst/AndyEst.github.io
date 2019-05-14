@@ -1800,6 +1800,14 @@ body {
 .cid-rpsp6Brua9 .dropdown-item:hover {
   color: #149dcc !important;
 }
+.cid-rqp74FU17m {
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #073b4c, #25aab2);
+}
+.cid-rqp74FU17m .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-rpryOXQrtD {
   background-image: url("../../../assets/images/chalkboard-1800x1200.jpg");
 }
@@ -4021,7 +4029,7 @@ body {
 }
 .cid-rpsqqvWcYU {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #879a9f;
 }
 .cid-rpsqqvWcYU h4 {
