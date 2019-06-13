@@ -2093,13 +2093,13 @@ body {
   background: #149dcc;
 }
 .cid-rprBDMSCzY .progress1 .progressbar-number:before {
-  content: '100';
+  content: '49';
 }
 .cid-rprBDMSCzY .progress2 .progressbar-number:before {
-  content: '95';
+  content: '75';
 }
 .cid-rprBDMSCzY .progress3 .progressbar-number:before {
-  content: '100';
+  content: '0';
 }
 .cid-rprBDMSCzY .progress4 .progressbar-number:before {
   content: '70';
