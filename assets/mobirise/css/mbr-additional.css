@@ -5932,29 +5932,6 @@ body {
 .cid-rpsp6Brua9 .dropdown-item:hover {
   color: #149dcc !important;
 }
-.cid-ru40KMxFWz {
-  padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-ru40KMxFWz .line {
-  background-color: #34707f;
-  color: #34707f;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-ru40KMxFWz .section-text {
-  padding: 2rem 0;
-}
-.cid-ru40KMxFWz .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-ru40KMxFWz .inner-container {
-    width: 100% !important;
-  }
-}
 #custom-html-14 {
   /* Type valid CSS here */
 }
